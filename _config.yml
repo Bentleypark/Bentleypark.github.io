@@ -22,7 +22,7 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
-  Volunteer Activity(Healing): "https://www.frip.co.kr/products/115142"
+  Healing: "https://www.frip.co.kr/products/115142"
   Voluntary Book Club: "https://band.us/@voluntarybookclub"
 
 # Image to show in the navigation bar - image must be a square (width = height)
