@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Android Developer and Change Maker  
+title: Android Developer Bentley 
 
 # Short description of your site
 description: 창직하는 개발자 Bentley
@@ -21,6 +21,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Android: "android"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
