@@ -1,0 +1,24 @@
+language: ruby
+branches:
+  only:
+  - source  # branch that contains source files
+rvm:
+- 2.2.3
+before_install:
+- openssl aes-256-cbc -K $encrypted_{blah blah blah}
+- chmod u=rw,og= ~/.ssh/deploy_key
+- echo "Host github.com" >> ~/.ssh/config
+- echo "  IdentityFile ~/.ssh/deploy_key" >> ~/.ssh/config
+- git --version
+- git config user.name "{GIT_UNAME}"
+- git config user.email "{GIT_EMAIL}"
+- git remote set-url origin git@github.com:{GIT_UNAME}/{GIT_UNAME}.github.io.git
+- git remote -v
+script:
+- bundle exec rake
+notifications:
+  email:
+    recipients:
+      - {p2c2kbf@gmail.com}
+    on_success: change
+    on_failure: always
