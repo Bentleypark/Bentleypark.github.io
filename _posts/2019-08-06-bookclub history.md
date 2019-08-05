@@ -1,14 +1,7 @@
 ---
 layout: post
+published: false
 title: '[Voluntary Bookclub] 역사를 잊은 민족에게는 미래는 없다'
-subtitle: 자발적 책읽기모임 8월 자유도서 모임(주제: 역사) 후기
-bigimg: /img/england.png
-tags:
-  - 자발적책읽기모임
-  - 자유도서모임
-  - 역사
-published: true
-date: '2019-08-06'
 ---
 
 **"A nation that forgets its past has no future"**
@@ -59,4 +52,3 @@ date: '2019-08-06'
   [자발적 책읽기 모임 구경하기 (네이버 밴드)](https://band.us/@voluntarybookclub)
 
 ![86fUd0151832oav4q8yj2_ivps2k.jpg]({{site.baseurl}}/img/86fUd0151832oav4q8yj2_ivps2k.jpg)
-
