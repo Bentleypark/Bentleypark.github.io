@@ -15,7 +15,7 @@ date: '2019-08-06'
 "A nation that forgets its past has no future"
                                  - 윈스턴 처칠-
                                  
-                                 ![13592636-보물지도-배경에-오래-된-황동-나침반.jpg]({{site.baseurl}}/img/13592636-%EB%B3%B4%EB%AC%BC%EC%A7%80%EB%8F%84-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%98%A4%EB%9E%98-%EB%90%9C-%ED%99%A9%EB%8F%99-%EB%82%98%EC%B9%A8%EB%B0%98.jpg)
+![13592636-보물지도-배경에-오래-된-황동-나침반.jpg]({{site.baseurl}}/img/13592636-%EB%B3%B4%EB%AC%BC%EC%A7%80%EB%8F%84-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%98%A4%EB%9E%98-%EB%90%9C-%ED%99%A9%EB%8F%99-%EB%82%98%EC%B9%A8%EB%B0%98.jpg)
                                                                
                                 
 '역사'에 대해서 관심을 가지는 것은 생각보다 쉽지 않습니다. 학창 기에 암기식으로 역사를 공부한 세대에는 더욱 어렵게만 느껴집니다. 그럼에도 불구하고, 역사의 중요성은 누구나 알고 있습니다. 그래서 힘들더라도 작은 관심을 가지는게 중요합니다.
@@ -26,23 +26,17 @@ date: '2019-08-06'
 
 ### * 모임에서 이야기 나눈 도서들
 
-**- 세월호, 그날의 기록 (진실의 힘 세월호 기록팀 저)**
-[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79172542](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79172542)
+[**- 세월호, 그날의 기록 (진실의 힘 세월호 기록팀 저)**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79172542)
 
-**- 1984 (조지 오웰 저)**
-[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=192439088](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=192439088)
+[**- 1984 (조지 오웰 저)**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=192439088)
 
-**- 소년이 온다 (한강 저)**
-[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40869703](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40869703)
+[**- 소년이 온다 (한강 저)**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40869703)
 
-**- 러시아 혁명 1917-1938 (쉴라 피츠패트릭 저)**
-[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113801625](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113801625)
+[**- 러시아 혁명 1917-1938 (쉴라 피츠패트릭 저)**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113801625)
 
-**- 역사란 무엇인가 (에드워드 H. 카 저)**
-[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54882836](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54882836)
+[**- 역사란 무엇인가 (에드워드 H. 카 저)**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54882836)
 
-**- 쉽게 읽는 백범일지 (김구 저)**
-[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=603132](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=603132)
+[**- 쉽게 읽는 백범일지 (김구 저)**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=603132)
 
 ### **모임에서 나눈 이야기와 질문들
 
