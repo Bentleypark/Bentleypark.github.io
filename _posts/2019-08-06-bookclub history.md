@@ -59,3 +59,4 @@ date: '2019-08-06'
   [자발적 책읽기 모임 구경하기 (네이버 밴드)](https://band.us/@voluntarybookclub)
 
 ![86fUd0151832oav4q8yj2_ivps2k.jpg]({{site.baseurl}}/img/86fUd0151832oav4q8yj2_ivps2k.jpg)
+
