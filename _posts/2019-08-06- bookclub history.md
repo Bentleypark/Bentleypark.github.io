@@ -12,9 +12,9 @@ published: true
 date: '2019-08-06'
 ---
 
-**"A nation that forgets its past has no future"
+**"A nation that forgets its past has no future"**
 
--윈스턴 처칠-**
+**-윈스턴 처칠-**
 
 ![13592636-보물지도-배경에-오래-된-황동-나침반.jpg]({{site.baseurl}}/img/13592636-%EB%B3%B4%EB%AC%BC%EC%A7%80%EB%8F%84-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%98%A4%EB%9E%98-%EB%90%9C-%ED%99%A9%EB%8F%99-%EB%82%98%EC%B9%A8%EB%B0%98.jpg)
                                                                
