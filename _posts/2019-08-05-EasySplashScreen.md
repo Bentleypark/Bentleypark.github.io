@@ -9,6 +9,7 @@ tags:
   - splash screen
   - Easy Splash Screen Android
 published: true
+date: '2019-08-05'
 ---
 
 ![intro.png]({{site.baseurl}}/img/intro.png)
