@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Voluntary Bookclub] 역사를 잊은 민족에게는 미래는 없다'
+title: '[03][Voluntary Bookclub] 역사를 잊은 민족에게는 미래는 없다'
 subtitle: 자발적 책읽기모임
 8월 자유도서 모임(주제: 역사) 후기
 bigimg: /img/england.png
@@ -12,9 +12,10 @@ published: true
 date: '2019-08-06'
 ---
 
-"A nation that forgets its past has no future"
-                                 - 윈스턴 처칠-
-                                 
+**"A nation that forgets its past has no future"
+
+-윈스턴 처칠-**
+
 ![13592636-보물지도-배경에-오래-된-황동-나침반.jpg]({{site.baseurl}}/img/13592636-%EB%B3%B4%EB%AC%BC%EC%A7%80%EB%8F%84-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%98%A4%EB%9E%98-%EB%90%9C-%ED%99%A9%EB%8F%99-%EB%82%98%EC%B9%A8%EB%B0%98.jpg)
                                                                
                                 
@@ -56,5 +57,6 @@ date: '2019-08-06'
 * 자발적 책읽기 모임은 평일 목요일 저녁에 종각역 인근에서 격주로 독서모임을 진행합니다. 
 관심 있는분들은 아래 링크를 통해서 밴드가입하셔서 참여하시길 바랍니다.
 
-[자발적 책읽기 모임 (네이버 밴드)](https://band.us/@voluntarybookclub)
+  [자발적 책읽기 모임 구경하기 (네이버 밴드)](https://band.us/@voluntarybookclub)
 
+![86fUd0151832oav4q8yj2_ivps2k.jpg]({{site.baseurl}}/img/86fUd0151832oav4q8yj2_ivps2k.jpg)
