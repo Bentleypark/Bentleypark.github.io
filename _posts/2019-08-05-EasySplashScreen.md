@@ -30,12 +30,12 @@ date: '2019-08-05'
 
 <script src="https://gist.github.com/bentleypark/9a42f45e7cb873d00ca53935295a7e1e.js"></script>
 
-**2)SpashScreenActibity 소스코드** 
+**2) SpashScreenActibity 소스코드** 
 (단, Activity를 추가할 때, 따로 Layout(xml) 파일을 생성하지 않아도 된다!) 
 
 <script src="https://gist.github.com/bentleypark/25767682b627272f026e58e9380413dc.js"></script>
 
-**3)AndroidManifesh.xml 파일 수정**
+**3) AndroidManifesh.xml 파일 수정**
 - Splash 화면이 제일 먼저 실행되도록 변경해주어야 합니다.
  (보통 프로젝트를 신규로 생성하면, MainActivity가 default 값으로 되어있습니다.)
  
