@@ -1,7 +1,8 @@
 ---
 layout: post
-title: '역사를 잊은 민족에게는 미래는 없다'
-subtitle: [자발적 책읽기모임] 8월 자유도서 모임(주제: 역사) 후기
+title: 역사를 잊은 민족에게는 미래는 없다
+subtitle: 자발적 책읽기모임
+8월 자유도서 모임(주제: 역사) 후기
 bigimg: /img/england.png
 tags:
   - 자발적책읽기모임
@@ -10,3 +11,56 @@ tags:
 published: true
 date: '2019-08-06'
 ---
+
+"A nation that forgets its past has no future"
+                                 - 윈스턴 처칠-
+                                 
+                                 ![13592636-보물지도-배경에-오래-된-황동-나침반.jpg]({{site.baseurl}}/img/13592636-%EB%B3%B4%EB%AC%BC%EC%A7%80%EB%8F%84-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%98%A4%EB%9E%98-%EB%90%9C-%ED%99%A9%EB%8F%99-%EB%82%98%EC%B9%A8%EB%B0%98.jpg)
+                                                               
+                                
+'역사'에 대해서 관심을 가지는 것은 생각보다 쉽지 않습니다. 학창 기에 암기식으로 역사를 공부한 세대에는 더욱 어렵게만 느껴집니다. 그럼에도 불구하고, 역사의 중요성은 누구나 알고 있습니다. 그래서 힘들더라도 작은 관심을 가지는게 중요합니다.
+
+다행히도 요즘에는 역사와 관련된 컨텐츠 들이 많이 나타나고 있습니다. 특정한 역사를 기반으로 만들어진 영화나 드라마가 대표적인 예입니다. 그리고 '무한도전'과 같은 예능에서도 종종 역사에 대한 에피소드를 만들기도 했습니다. 요즘에 가장 인기있는 플랫폼인 YouTube에서도 쉽고 유익한 컨텐츠 를 찾아볼 수 있습니다. 
+
+오늘은 저를 포함하여 총 6분이 독서모임에 참여하여, 역사와 관련된 도서를 가지고 이야기를 나눴습니다. 이번 모임에 소개된 책들은 가장 최근 역사인 '세월호 사건'부터 최고의 역사 바이블인 '역사란 무엇인가' 입니다.  
+
+### * 모임에서 이야기 나눈 도서들
+
+**- 세월호, 그날의 기록 (진실의 힘 세월호 기록팀 저)**
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79172542](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79172542)
+
+**- 1984 (조지 오웰 저)**
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=192439088](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=192439088)
+
+**- 소년이 온다 (한강 저)**
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40869703](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40869703)
+
+**- 러시아 혁명 1917-1938 (쉴라 피츠패트릭 저)**
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113801625](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113801625)
+
+**- 역사란 무엇인가 (에드워드 H. 카 저)**
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54882836](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=54882836)
+
+**- 쉽게 읽는 백범일지 (김구 저)**
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=603132](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=603132)
+
+### **모임에서 나눈 이야기와 질문들
+
+- '러시아 혁명'은 성공한 혁명인가? 
+- 사회주의 vs 개인주의 그리고 공리주의 
+- 디스토피아 문학의 탄생 기원 
+- 왜 '인재'는 반복적으로 발생하는가?
+- 세월호와 같은 사건이 발생하고 원인 파악 보다는 앞으로 똑같은 상황이 발생되지 않도록 후속조치가 필요하다. 
+- 위급 상황에서는 사람들은 의외로 이성적이지 못하다. 
+- 역사는 과연 '객관성'이 있는가?
+- 5.18 민주화 항쟁에서 우리가 몰랐던 이야기들**
+
+위와 같이 책과 관련된 다양한 이야기를 2시간 20분동안 열심히 나누었습니다. 그동안 관심이 없었던 역사와 **'어떻게 역사를 바라봐야 하는가'**에 대해서 다시 한번 생각하게된 계기가 되었습니다. 마지막으로 모임에서 찍은 책탑사진으로 후기를 마무리를 하겠습니다. 
+
+![2019년 8월 자유도서모임_역사.jpeg]({{site.baseurl}}/img/2019%EB%85%84%208%EC%9B%94%20%EC%9E%90%EC%9C%A0%EB%8F%84%EC%84%9C%EB%AA%A8%EC%9E%84_%EC%97%AD%EC%82%AC.jpeg)
+
+* 자발적 책읽기 모임은 평일 목요일 저녁에 종각역 인근에서 격주로 독서모임을 진행합니다. 
+관심 있는분들은 아래 링크를 통해서 밴드가입하셔서 참여하시길 바랍니다.
+
+[자발적 책읽기 모임 (네이버 밴드)](https://band.us/@voluntarybookclub)
+
