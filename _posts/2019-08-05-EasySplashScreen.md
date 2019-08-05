@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Android] 손 쉽게 Spash Screen 구현하기'
+title: '[Android] 손 쉽게 Splash Screen 구현하기'
 subtitle: Easy Splash Screen Android Library 활용
 bigimg: /img/android_post_background.jpg
 tags:
