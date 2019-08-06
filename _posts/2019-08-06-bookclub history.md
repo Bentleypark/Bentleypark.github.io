@@ -9,7 +9,7 @@ tags:
   - 역사
 published: true
 date: '2019-08-06'
-subtitle: '자발적 책읽기모임 - 8월 자유도서 모임(주제:역사) 후기'
+subtitle: '자발적 책읽기 모임 - 8월 자유도서 모임(주제: 역사) 후기'
 ---
 
 **"A nation that forgets its past has no future"**
