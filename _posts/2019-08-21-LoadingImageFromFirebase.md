@@ -46,6 +46,10 @@ Firebase 저장소를 이용하면, 별도의 백엔드 작업없이 파일 업�
 
 <script src="https://gist.github.com/bentleypark/661162f6ef55cc2cc79e02d7134bfc75.js"></script>
 
+## * 실행화면
+
+![imageloading.png]({{site.baseurl}}/img/imageloading.png)
+
 
 
 
