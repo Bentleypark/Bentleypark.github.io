@@ -8,7 +8,10 @@ tags:
   - 안드로이드
   - firebase
   - Glide
-  - 이미지로딩 
+  - 이미지로딩
 published: true
 date: '2019-08-21'
 ---
+
+![Glide]({{site.baseurl}}/https://raw.githubusercontent.com/bumptech/glide/master/static/glide_logo.png)
+
