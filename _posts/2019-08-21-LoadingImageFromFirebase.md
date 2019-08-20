@@ -13,5 +13,4 @@ published: true
 date: '2019-08-21'
 ---
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/bumptech/glide/master/static/glide_logo.png)
-
+![]({{site.baseurl}}https://raw.githubusercontent.com/bumptech/glide/master/static/glide_logo.png)
