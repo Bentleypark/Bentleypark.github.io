@@ -2,7 +2,7 @@
 layout: post
 title: '[AndroidTest] Git Hook 활용하여, 코드반영 실수 줄이기'
 subtitle: Git push 전에, 강제로 Android Test 실행!
-bigimg: /img/android_post_background.jpg
+bigimg: /img/git-hook.png
 tags:
   - android
   - 안드로이드
