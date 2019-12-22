@@ -9,7 +9,8 @@ subtitle: 사람과 사람을 연결하고, 그 속에서 새로운 가치를 �
 
 ### Android Developer
 
-## Skills
+# Skills
+----------------------
 # Language 
 * Java
 * Kotlin
