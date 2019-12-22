@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Android] Firebase 저장소에 업로드한 이미지 로딩하기'
+title: Firebase 저장소에 업로드한 이미지 로딩하기
 subtitle: Glide 라이브러리 Library 활용
 bigimg: /img/android_post_background.jpg
 tags:
