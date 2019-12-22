@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Android] Splash Screen 쉽게 구현하기'
+title: Splash Screen 쉽게 구현하기
 subtitle: Easy Splash Screen Android Library 활용
 bigimg: /img/android_post_background.jpg
 tags:
@@ -8,7 +8,7 @@ tags:
   - 안드로이드
   - splash screen
   - Easy Splash Screen Android
-published: true
+published: false
 date: '2019-08-05'
 ---
 
