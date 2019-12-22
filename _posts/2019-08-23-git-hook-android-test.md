@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[AndroidTest] Git Hook 활용하여, Git 저장소에 코드 반영 실수 줄이기'
+title: 'Git Hook 활용하여, Git 저장소에 코드 반영 실수 줄이기'
 subtitle: 'Git push 전에, 강제로 Android Test 실행!'
 bigimg: /img/git-hook.png
 tags:
