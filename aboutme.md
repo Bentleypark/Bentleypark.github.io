@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Android Developer & Community Builder
+subtitle: 사람과 사람을 연결하고, 그 속에서 새로운 가치를 만들 수 있는 기술을 개발하고 싶습니다.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+안녕하세요. 안드로이드 개발자 박중길입니다.
+사람과 사람을 연결하고, 그 속에서 새로운 가치를 만들 수 있는 기술을 개발하고 싶습니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Android Developer
 
-What else do you need?
+## Skills
+# Language 
+* Java
+* Kotlin
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
