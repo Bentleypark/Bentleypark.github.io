@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Android] Back button(뒤로가기)으로 앱 종료 처리 '
+title: 'Back button(뒤로가기)으로 앱 종료 처리 '
 bigimg: /img/android_post_background.jpg
 tags:
   - android
