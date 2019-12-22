@@ -21,17 +21,17 @@ Firebase 저장소를 이용하면, 별도의 백엔드 작업없이 파일 업�
 
 
 
-## * Android 프로젝트에 Firebase 추가
+### Android 프로젝트에 Firebase 추가
 - 링크를 통하여 Firebase에서 Android 프로젝트를 생성해줍니다. 
 
 	: [Firebase 추가에 프로젝트 추가: https://firebase.google.com/docs/android/setup?hl=ko](https://firebase.google.com/docs/android/setup?hl=ko)
 
-## * Firebase Storage Rule 변경 
+### Firebase Storage Rule 변경 
 
 <script src="https://gist.github.com/bentleypark/1dd3d788f01103dffcb7d06bd9239aaf.js"></script>
 
 
-## * activity_main.xml
+### activity_main.xml
 - 이미지를 로딩할 이미지뷰를 생성합니다. 
 
 <script src="https://gist.github.com/bentleypark/f053c4ed4aaf897d7003a136577c568f.js"></script>
@@ -39,23 +39,23 @@ Firebase 저장소를 이용하면, 별도의 백엔드 작업없이 파일 업�
 ![Glide](https://github.com/bumptech/glide/raw/master/static/glide_logo.png)
 
 
-## * ImageLoading.java 
+### ImageLoading.java 
 - FirebaseStorage 객체를 통하여 다운로드 URL을 구하여, Glide 라이브러리를 통하여 이미지를 로딩합니다. 
 
 <script src="https://gist.github.com/bentleypark/7b7d31d44a88b2bc7620e020aba9e337.js"></script>
 
 
-## * AndroidManifest.xml 
+### AndroidManifest.xml 
 - 인터넷 연결이 가능하도록 퍼미션 추가합니다. 
 
 <script src="https://gist.github.com/bentleypark/661162f6ef55cc2cc79e02d7134bfc75.js"></script>
 
 
-## * 실행화면
+### 실행화면
 
 ![imageloading.png]({{site.baseurl}}/img/imageloading.png)
 
 
-## * 참고 사이트 
+### 참고 사이트 
 
 - [https://stackoverflow.com/questions/49117076/glide-will-not-show-image-from-firebase-storage](https://stackoverflow.com/questions/49117076/glide-will-not-show-image-from-firebase-storage)
