@@ -25,13 +25,16 @@ date: '2019-08-23'
 **그럼 어떻게 할 수 있을까요??**
 
 
+
+
 먼저, Git Hook이란 무엇인지 알아봅시다!
 
 
 
-## Git Hook 이란?
+### Git Hook 이란?
 
-### - Git 명령(push, commit, recieve)을 실행하기 전 혹은 이후에 실행되는 스크립트를 칭합니다.
+**-> Git 명령(push, commit, recieve)을 실행하기 전 혹은 이후에 실행되는 스크립트를 칭합니다.**
+
 
 [Git hook 공식 사이트 인용](https://githooks.com)
 
