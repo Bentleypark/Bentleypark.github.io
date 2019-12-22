@@ -15,10 +15,9 @@ date: '2019-08-21'
 ![Firebase](https://cms-assets.tutsplus.com/uploads/users/1802/posts/30203/image/firebase-storage-logo.png)
 
 Firebase 저장소를 이용하면, 별도의 백엔드 작업없이 파일 업로드와 다운드로드를 수행할 수 있습니다.
-그래서 규모가 작고 간단한 안드로이드앱을 만들때, Firebase를 활용하여 서버단을 구성합니다. 
+그래서 규모가 작고 간단한 안드로이드앱을 만들때, Firebase를 활용하여 서버단을 구성합니다.
 
 이번에는 Firebase 저장소에 업로드한 이미지를 Glide 라이브러리를 이용하여 이미지뷰에 불러오는 방법을 정리해보겠습니다. 
-
 
 
 ### Android 프로젝트에 Firebase 추가
