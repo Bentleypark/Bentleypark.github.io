@@ -32,8 +32,7 @@ Git Hook 활용하면, 간단하게 이런 실수를 미연에 방지할 수 있
 
 ## Git Hook 이란?
 
-> Git 명령(push, commit, recieve)을 실행하기 전 혹은 이후에 실행되는 스크립트를 칭합니다.
-
+> Git 명령(push, commit, recieve)을 실행하기 전 혹은 이후에 실행되는 스크립트를 칭합니다.                                                                                                                                                     
 
 
 ### 실행방법
