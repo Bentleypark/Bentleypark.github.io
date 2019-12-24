@@ -24,11 +24,14 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
  
  * OS : Ubuntu 18.04.3 LTS
  * Python3 ( ver 3.6.9)
- * KoreaNewsCrawler
+ * KoreaNewsCrawler <br>
  
+
 
 ### 2. 파이썬 크롤러 설치
 > pip install KoreaNewsCrawler
+<br>
+
 
 ### 3. 크롤러 실행 코드
     
