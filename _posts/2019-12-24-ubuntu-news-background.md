@@ -17,22 +17,19 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
  --- 
  <br>
  
- # 파이썬 뉴스 크롤러 <br>
- 제가 필요한 데이터는 특정 분야의 포탈 뉴스입니다. 구글 검색을 통해서 파이썬으로 개발된 “KoreaNewsCrawler”을 발견할 수 있었고, 이를 활용해서 데이터 크롤링을 해보도록 하겠습니다. <br>
+# 파이썬 뉴스 크롤러 <br>
+ 제가 필요한 데이터는 특정 분야의 포탈 뉴스입니다. 구글 검색을 통해서 파이썬으로 개발된 “KoreaNewsCrawler”을 발견할 수 있었고, 이를 활용해서 데이터 크롤링을 해보도록 하겠습니다.
  
  
- ### 1. 실행환경
+### 1. 실행환경
  
  * OS : Ubuntu 18.04.3 LTS
  * Python3 ( ver 3.6.9)
  * KoreaNewsCrawler
  
-<br>
 
 ### 2. 파이썬 크롤러 설치
 > pip install KoreaNewsCrawler
-
-<br>
 
 ### 3. 크롤러 실행 코드
     
