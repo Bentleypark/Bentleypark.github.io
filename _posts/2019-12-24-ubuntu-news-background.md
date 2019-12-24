@@ -24,8 +24,9 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
  
  * OS : Ubuntu 18.04.3 LTS
  * Python3 ( ver 3.6.9)
- * KoreaNewsCrawler <br>
+ * KoreaNewsCrawler
  
+<br>
 
 
 ### 2. 파이썬 크롤러 설치
@@ -51,7 +52,7 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 
 크롤링은 시간이 소요가 되기 때문에, 터미널을 종료해도 실행이 되도록 backgroud에서 진행을 했습니다.
 
-	nohub python3 News & // backroud에서 데이터 크롤링이 실행된다.
+> nohub python3 News & // backroud에서 데이터 크롤링이 실행된다.
     
 <br>
 
