@@ -28,10 +28,12 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
  * KoreaNewsCrawler
  
 <br>
+
 ### 2. 파이썬 크롤러 설치
 > pip install KoreaNewsCrawler
 
 <br>
+
 ### 3. 크롤러 실행 코드
     
     from korea_news_crawler.articlecrawler import ArticleCrawler
@@ -46,6 +48,7 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 **2019년 1월 ~ 2019년 12월까지 사회, 생활문제, world 카테고리 뉴스를 멀티프로세서를 이용하여 병렬 크롤링을 진행합니다.**
 
 <br>
+
 ### 4. 크롤러 실행
 
 크롤링은 시간이 소요가 되기 때문에, 터미널을 종료해도 실행이 되도록 backgroud에서 진행을 했습니다.
@@ -53,6 +56,7 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 	nohub python3 News & // backroud에서 데이터 크롤링이 실행된다.
     
 <br>
+
 ### 5. 크롤러 실행
 
 데이터는 아래 이미지처럼 .csv 파일로 생성이 됩니다. 
@@ -60,4 +64,4 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 ![스크린샷 2019-12-23 오후 11.39.10.png]({{site.baseurl}}/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-12-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.39.10.png)
 
 <br>
-참고 사이트: [https://github.com/lumyjuwon/KoreaNewsCrawler](https://github.com/lumyjuwon/KoreaNewsCrawler)
+* 참고 사이트: [https://github.com/lumyjuwon/KoreaNewsCrawler](https://github.com/lumyjuwon/KoreaNewsCrawler)
