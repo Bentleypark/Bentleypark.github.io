@@ -15,7 +15,6 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
  이에 따라서 개발자들도 데이터에 많은 관심을 가지게 되었습니다. 저도 최근에 사이드 프로젝트를 진행하면서 필요한 데이터를 획득하기 위해서 처음으로 클롤링을 시도해보게 되었습니다.
  
  --- 
- <br>
  
 # 파이썬 뉴스 크롤러 <br>
  제가 필요한 데이터는 특정 분야의 포탈 뉴스입니다. 구글 검색을 통해서 파이썬으로 개발된 “KoreaNewsCrawler”을 발견할 수 있었고, 이를 활용해서 데이터 크롤링을 해보도록 하겠습니다.
@@ -59,6 +58,5 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 
 ![스크린샷 2019-12-23 오후 11.39.10.png]({{site.baseurl}}/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-12-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.39.10.png)
 
-<br>
 
-* 참고 사이트: [https://github.com/lumyjuwon/KoreaNewsCrawler](https://github.com/lumyjuwon/KoreaNewsCrawler)
+* 참고 사이트 : [https://github.com/lumyjuwon/KoreaNewsCrawler](https://github.com/lumyjuwon/KoreaNewsCrawler)
