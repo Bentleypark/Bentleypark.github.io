@@ -1,7 +1,12 @@
 ---
 layout: post
 published: true
-title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
+tags:
+  - 데이터 크롤링
+  - 파이썬 크롤러
+  - Ubuntu
+  - KoreaNewsCrawler
+title: Ubuntu 환경에서 네이버 News 크롤링 실행하기
 ---
 
 ![ 출처: 인프런 블로그 이미지]({{site.baseurl}}/img/python-web-crawling.jpg)
