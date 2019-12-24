@@ -10,6 +10,7 @@ title: Ubuntu 환경에서 네이버 News 크롤링 실행하기
 ---
 
 ![]({{site.baseurl}}/img/python-web-crawling.jpg)
+
 <center>출처: 인프런 블로그 이미지</center> <br>
 
 # 데이터의 중요성 <br>
