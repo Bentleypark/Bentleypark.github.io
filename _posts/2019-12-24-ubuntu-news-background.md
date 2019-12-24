@@ -26,12 +26,9 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
  * Python3 ( ver 3.6.9)
  * KoreaNewsCrawler
  
-<br>
-
 
 ### 2. 파이썬 크롤러 설치
 > pip install KoreaNewsCrawler
-<br>
 
 
 ### 3. 크롤러 실행 코드
@@ -43,10 +40,9 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 	Crawler.set_date_range(2019, 1, 2019, 12)  
 	Crawler.start()
 
-<center>News_Crawler.py</center> <br>
+<center>News_Crawler.py</center>
 
 **2019년 1월 ~ 2019년 12월까지 사회, 생활문제, world 카테고리 뉴스를 멀티프로세서를 이용하여 병렬 크롤링을 진행합니다.**
-
 
 ### 4. 크롤러 실행
 
@@ -54,7 +50,6 @@ title: Ubuntu 환경에서 네이버 News 크롤링background 실행하기
 
 > nohub python3 News & // backroud에서 데이터 크롤링이 실행된다.
     
-<br>
 
 ### 5. 크롤러 실행
 
